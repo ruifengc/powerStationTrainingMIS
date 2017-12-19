@@ -1,0 +1,9 @@
+0、安装MySQL数据库，牢记数据库的用户名和密码
+1、MySQL数据库客户端Navicat安装
+  下载地址：http://pan.baidu.com/s/1gdDGUsj
+2、数据库导入
+	2.1 打开Navicat；
+	2.2 创建一个数据库：pxgl
+	2.3 右键点击pxgl -> 运行SQL文件 ->选择pxgl.sql
+	2.4 导入成功后，刷新数据库查看数据表，应该15张表
+	
